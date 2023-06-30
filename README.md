@@ -1,4 +1,4 @@
-### Hi there, `#0969DAI'm coderPanz ` 👋
+### Hi there, `ffffff` I'm coderPanz ` 👋
 #### Ask me about
 - 🌱 I’m currently learning how to become a coder!
 - 🤔 My technology stack
