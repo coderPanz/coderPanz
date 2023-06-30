@@ -7,7 +7,7 @@
 - node
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderPanz)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderPanz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderPanz&repo=vut-ts-cms)](https://github.com/coderPanz/vue-ts-cms)
 <!--
 **coderPanz/coderPanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
