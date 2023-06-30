@@ -1,5 +1,5 @@
-### Hi there, `#0969DA`I'm coderPanz 👋
-#### 💬 Ask me about
+### Hi there, `#0969DAI'm coderPanz ` 👋
+#### Ask me about
 - 🌱 I’m currently learning how to become a coder!
 - 🤔 My technology stack
 
