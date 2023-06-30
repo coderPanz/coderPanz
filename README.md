@@ -1,5 +1,9 @@
-### Hi there, I'm coderPanz 👋
-- 🌱 I’m currently learning ...
+### Hi there, `#0969DA`I'm coderPanz 👋
+#### 💬 Ask me about
+- 🌱 I’m currently learning how to become a coder!
+- 🤔 My technology stack
+
+  
 <!--
 **coderPanz/coderPanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
