@@ -1,6 +1,6 @@
 ## coderPanz ` 👋
 ### Ask me about
-- 🌱 A coder!
+- 🌱 is only a coder!
 ### technology
 <span > 
 <img src="https://img.shields.io/badge/-ts-3178C6?style=flat-square&logo=typescript&logoColor=white" /> 
