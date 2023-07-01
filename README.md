@@ -17,6 +17,6 @@
 
 
 <div align="center"> 
-  <img height="135px" src="https://github-readme-streak-stats.herokuapp.com/?user=coderPanz&card_width=1110" /> 
+  <img height="135px" src="https://github-readme-streak-stats.herokuapp.com/?user=coderPanz&card_width=1106" /> 
 </div>
 
