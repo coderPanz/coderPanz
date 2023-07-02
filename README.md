@@ -1,13 +1,17 @@
 ## coderPanz ` 👋
 ### Ask me about
 - 🌱 is only a coder!
-### technology
-<span > 
-<img src="https://img.shields.io/badge/-ts-3178C6?style=flat-square&logo=typescript&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=black" />
-</span>
+### languages and tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cn.vitejs.dev/logo.svg"></code>
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br /><br /><br />
 
 
 <div align="center"> 
