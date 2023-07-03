@@ -7,7 +7,7 @@ src="https://camo.githubusercontent.com/e2fed45eeddf5c4e8af379d928f6c2da3617a343
 ### languages and tools
 
 
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,mongodb,vscode,git,vite" /><br>
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,mongodb,vscode,git,vite" />
 <br />
 
 
