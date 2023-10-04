@@ -5,7 +5,7 @@
 
 
 ### languages and tools
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,mongodb,vscode,git,vite" />
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,mongodb,vscode,git,vite,react" />
 <br /><br />
 
 
