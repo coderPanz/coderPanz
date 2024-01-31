@@ -1,7 +1,7 @@
 
 ## coderPanz 
 
-### 🌍 前端选手
+
 
 ### languages and tools
 
