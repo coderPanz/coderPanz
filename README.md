@@ -3,7 +3,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,mongodb,vscode,git,vite,react,next" />
+
 
 <br /><br />
 <div align="center"> 
