@@ -5,7 +5,7 @@
 
 
 
-<br /><br />
+<br />
 <div align="center"> 
 <img height="135px" src="https://github-readme-stats.vercel.app/api?username=coderPanz&hide_title=true&show_icons=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderPanz&hide_title=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&card_width=380" />
