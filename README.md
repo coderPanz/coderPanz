@@ -4,7 +4,7 @@
 
 
 
-
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,mongodb,vscode,git,vite,react,next,nest" />
 <br />
 <div align="center"> 
 <img height="135px" src="https://github-readme-stats.vercel.app/api?username=coderPanz&hide_title=true&show_icons=true" /> 
