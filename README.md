@@ -1,6 +1,6 @@
 
 ## coderPan
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,mongodb,vscode,git,vite,react,next,nest,python" />
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,mongodb,vscode,git,vite,react,next,nest,python,langchain" />
 
 
 
